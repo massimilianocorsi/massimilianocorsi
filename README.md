@@ -1,4 +1,4 @@
-👋 Hi, I’m Massimiliano Corsi
+👋 Hi, I’m Massimiliano Corsi (https://www.linkedin.com/in/massimiliano-corsi-ba39a92/)
 
 ▪ Close to 20 years of experience in ICT enviroments.<br />
 ▪ More than 10 years of complex infrastructure management.<br />
