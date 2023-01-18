@@ -2,10 +2,8 @@
 
 ▪ Close to 20 years of experience in ICT enviroments.<br />
 ▪ More than 10 years of complex infrastructure management.<br />
-▪ Excellent experience in telephone architectures and networks.<br />
-▪ Good experience in data network operations.<br />
-
-
+▪ Excellent experience in Kubernetes/microservice<br />
+▪ Good experience in Virtualization and data network operations.<br />
 
 - 👀 I’m interested in ... Technology ...
 - 🌱 I’m currently learning ... kubernetes ...
